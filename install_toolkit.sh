@@ -14,3 +14,5 @@ if ! command -v brew >/dev/null; then
 fi
 
 brew bundle
+
+./generate-locale.sh
