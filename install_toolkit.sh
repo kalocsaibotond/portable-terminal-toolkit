@@ -15,4 +15,4 @@ fi
 
 brew bundle
 
-./generate-locale.sh
+brew postinstall glibc
